@@ -1,8 +1,9 @@
 # Movie-Recommendation-System
 
-![ML](https://img.shields.io/badge/ML-Recommendation_System-blue.svg) 
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/15af8329-d491-4184-a0fb-b9e878b750ad" />
 
-![logo](Snips/Logo.jpeg)
+
+
 
 ## Business Objectives :
 
@@ -61,7 +62,8 @@ The results from different ML models are as follows:
 
 The sample movie recommendation based on Collaborative Filtering is as follows:
 
-![test](Snips/M_5.JPG)
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/1496ec55-df26-40ca-81d0-3623cfaf9e58" />
+
 
 ## Conclusions :
 
